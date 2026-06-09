@@ -17,4 +17,4 @@ This repository contains a detailed troubleshooting and implementation guide for
 
 See:
 
-docs/HCP Vault Kubernetes Authentication Setup.pdf
+[View PDF Guide](./HCP%20Vault%20Kubernetes%20Authentication%20Setup.pdf)
